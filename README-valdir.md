@@ -6,3 +6,9 @@ admin
 
 Rodando pelo maven:
 mvn spring-boot:run
+
+Fazendo o deplpy
+render.com
+
+Para construir o jar no maven:
+mvn clean install
